@@ -1,0 +1,28 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+H1{
+    border: red dashed 5px;
+    text-align: center;
+    padding: 30px ;
+    margin:30px 0;
+}
+#carrinho{
+    color: aquamarine;
+
+}
+
+footer{
+    text-align: center;
+    padding:30px ;
+    margin: 30px 0 ;
+    background-color: black;
+    color: aliceblue;
+}
+  
+.produto{
+     color: blue;
+}
